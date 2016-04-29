@@ -1,0 +1,34 @@
+ @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+ .navbar-default .navbar-nav>li>a       {font-size: 18px; color: #000000;}
+ .navbar-default .navbar-nav>li>a:hover {color: #00b3ee;}
+
+ .sidebar                               {background-color: #f0ad4e; color: #ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; margin-top: 40px;}
+ .sidebar ul                            {padding-bottom:40px;}
+ .sidebar ul li                         {list-style-type: none; padding-top: 20px; padding-bottom: 20px;}
+
+ .pagination                            {margin-bottom: 0;}
+
+ .best                                  {background-color: #26C281; color: #ffffff; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; padding: 20px;}
+ .best h1                               {margin-top: 0;}
+ .best a                                {color: #E74C3C}
+ .star                                  {color: #ffff4f;}
+ .best>.well                            {background-color: transparent; border: none; box-shadow: none;}
+
+ .tags ul                               {padding: 15px;}
+ .tags ul>li                            {display: inline-block; list-style-type: none;}
+ .date                                  {color: #ffffff; background-color: #E74C3C; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; padding: 3px;}
+ .label                                 {font-size: 12px;}
+ hr                                     {border: outset 1px #EEEEEE;}
+
+ .well>h1                               {margin-top: 0;}
+ .mt20                                  {margin-top: 20px;}
+
+ .formLog                               {margin-top: 40px; font-size: 16px;}
+ .formLog h1                            {margin-bottom: 40px;}
+
+ th                                     {text-align: center;}
+ .success                               {color: #3c763d;}
+ .danger                                {color: #a94442;}
+ .checkbox-inline, .radio-inline        {margin-left: 10px;}
+ .error                                 {color: #FF0000;}
